@@ -34,7 +34,7 @@ https://r4ds.had.co.nz/data-visualisation.html
 join()  
 https://dplyr.tidyverse.org/reference/join.html
 
-expand() 
+expand()  \
 https://tidyr.tidyverse.org/reference/expand.html
 
 pivot_longer() [new version of gather()]  
@@ -95,7 +95,7 @@ https://crsh.github.io/papaja_man/introduction.html
 Ebook Hadley Whickham - Advanced R  
 http://adv-r.had.co.nz/
 
-Ebook Efficiant R Programming ? - Colin Gillesspie, Robin Lovelace
+Ebook Efficiant R Programming ? - Colin Gillesspie, Robin Lovelace  
 https://bookdown.org/csgillespie/efficientR/  
  
 
@@ -104,8 +104,8 @@ https://mastering-shiny.org/action-tidy.html
 
 ### Programming with ggplot and dplyr
 
-Best practices for programming with ggplot2
-https://fishandwhistle.net/slides/rstudioconf2020/
+Best practices for programming with ggplot2  
+https://fishandwhistle.net/slides/rstudioconf2020/  
  
 
 https://speakerdeck.com/hadley/tidy-evaluation-programming-with-ggplot2-and-dplyr  
@@ -142,10 +142,11 @@ https://www.brodrigues.co/blog/2017-03-24-lesser_known_purrr/
 
 
 ### Stuff that keeps coming up
-Subsetting 
-www2.stat.duke.edu/~cr173/Sta523_Fa15/slides/2015-09-14-subsetting.html
-Reordering Factors  
-https://github.com/STAT545-UBC/Discussion/issues/52  
+Subsetting   
+www2.stat.duke.edu/~cr173/Sta523_Fa15/slides/2015-09-14-subsetting.html  
+
+Reordering Factors    
+https://github.com/STAT545-UBC/Discussion/issues/52    
 
 
 ## Git 
