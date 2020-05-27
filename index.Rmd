@@ -13,7 +13,8 @@ output:
 
 ## Guidelines/ Best practice  
 
-r style guide
+r style guide  
+https://style.tidyverse.org/  
 
 The turing way  
 https://the-turing-way.netlify.app/introduction/introduction  
@@ -66,7 +67,7 @@ https://bookdown.org/yihui/bookdown/
 
 ### R packages
 Ebook Hadley Whickham  
-http://r-pkgs.had.co.nz/  
+https://r-pkgs.org/
 
 https://purrr.tidyverse.org/reference/faq-adverbs-export.html  
 
@@ -83,6 +84,8 @@ https://github.com/annakrystalli/rrtools-repro-research
 Rocker  
 https://github.com/rocker-org/rocker
 
+### Binder 
+https://mybinder.readthedocs.io/en/latest/config_files.html    
 
 ### Continuos Integration  
 https://docs.travis-ci.com/user/for-beginners  
@@ -108,6 +111,10 @@ http://adv-r.had.co.nz/
 Ebook Efficiant R Programming ? - Colin Gillesspie, Robin Lovelace  
 https://bookdown.org/csgillespie/efficientR/  
  
+
+
+### Environments and namespaces  
+http://blog.obeautifulcode.com/R/How-R-Searches-And-Finds-Stuff/  
 
 ### Tidy evaluation
 https://mastering-shiny.org/action-tidy.html  
@@ -161,11 +168,17 @@ https://github.com/STAT545-UBC/Discussion/issues/52
 
 ## Git 
 
+Badges for readme  
+https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8  
+
 Atlassian tutorials  
 https://www.atlassian.com/git/tutorials  
 
 Trouble shooting  
 https://stackoverflow.com/questions/58030695/r-sweave-put-the-whole-code-of-the-rnw-file-in-appendix  
+
+Git section from R package book  
+https://r-pkgs.org/git.html  
 
 ## LaTex
 
