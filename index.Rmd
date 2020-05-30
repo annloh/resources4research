@@ -180,6 +180,9 @@ https://stackoverflow.com/questions/58030695/r-sweave-put-the-whole-code-of-the-
 Git section from R package book  
 https://r-pkgs.org/git.html  
 
+Happy git with R - Jenny Bryan, the STAT 545 TAs, Jim Hester  
+https://happygitwithr.com/  
+
 ## LaTex
 
 dummy image generator  
