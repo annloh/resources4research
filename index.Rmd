@@ -63,6 +63,10 @@ https://stackoverflow.com/questions/47806200/create-a-comment-box-using-rmarkdow
 https://bookdown.org/yihui/bookdown/
 
 
+### Blogdown
+
+https://bookdown.org/yihui/blogdown/  
+
 ## Reproducibility
 
 ### R packages
@@ -87,7 +91,7 @@ https://github.com/rocker-org/rocker
 ### Binder 
 https://mybinder.readthedocs.io/en/latest/config_files.html    
 
-### Continuos Integration  
+### Continuous Integration  
 https://docs.travis-ci.com/user/for-beginners  
 
 
